@@ -24,6 +24,7 @@ import com.customlbs.surface.library.IndoorsSurfaceFragment;
 import com.customlbs.shared.Coordinate;
 import com.customlbs.library.callbacks.RoutingCallback;
 
+
 import com.customlbs.library.IndoorsLocationListener;
 import com.customlbs.library.callbacks.LoadingBuildingStatus;
 import com.customlbs.library.model.Building;
